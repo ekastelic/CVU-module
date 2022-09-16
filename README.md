@@ -1,2 +1,4 @@
 # CVU-module
 Module for CUAHSI Open Computing Class 2022
+(1) a brief professional introduction to yourself: My name is Eric Kastelic and I'm a aspiring water scientist. This month I began my PhD in Geological Engineering at the University of Wisconsin, Madison. My research interests are in groundwater recharge. groundwater flooding, and biomanipulation. This past summer, I graduated with a undergraduate geology degree from the University of South Florida where I became interested in studying groundwater recharge through being a research assistant in a Ecohydrology Lab and completing a senior thesis in a Karst Hydrogeology Lab. In the future, I would like to be a research hydrologist for the USGS.
+(2) list 3-5 goals you have for this module: 1.) Learn how to use github and other methods to record, manipulate, and document code. 2.) Learn common tips and tricks for basic research computing. 3.) Interact with other hydrology students from around the globe.
